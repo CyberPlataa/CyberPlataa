@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexis! </h1>
+<h1>Hi, I'm Alexis! IT/Cybersecurity wanna be. These are some of the things I've been working on.</h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
