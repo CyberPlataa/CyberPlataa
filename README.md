@@ -5,7 +5,7 @@
 [Active Directory Homelab]
 
 
-Certifications
+## Certifications
 ComptiaSecurity+
 
 <h2> 🤳 Connect with me:</h2>
