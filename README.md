@@ -4,6 +4,8 @@
 
 [Active Directory Homelab]
 
+[Azure Honey Net Lab](https://github.com/CyberPlataa/Azure-Honey-Net-Lab/blob/main/README.md)
+
 
 ## Certifications
 ComptiaSecurity+
