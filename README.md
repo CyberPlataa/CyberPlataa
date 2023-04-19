@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexis! IT/Cybersecurity wanna be. These are some of the things I've been working on.</h1>
+<h1>Hi, I'm Alexis! IT/Cybersecurity wanna be. These are some of the things I've been working on. I'll be sure to constantly update this. It's cool to see all the information and skills I pick up on my journey, and it excites me to see it all slowly get bigger with time. </h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
