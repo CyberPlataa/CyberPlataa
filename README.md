@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexis! IT/Cybersecurity wanna be. These are some of the things I've been working on. I'll be sure to constantly update this. It's cool to see all the information and skills I pick up on my journey, and it excites me to see it all slowly get bigger with time. </h1>
+<h1>Hi, I'm Alexis! A martial artist who's taking his passion for learning techniques and trying to evolve with the combat sports world to IT/Cybersecurity. I catch myself feeling wide-eyed learning new technologies as I do with martial arts. I'm always asking questions, and chasing that feeling of achieving new things. This is a documentation of my journey thus far. If you have any tips for better documentation or cool new technologies; heck even techniques. Please shoot me a message!</h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
