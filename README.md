@@ -9,6 +9,7 @@
 
 ## Certifications
 ComptiaSecurity+
+
 ITIL 4 Foundation
 
 <h2> 🤳 Connect with me:</h2>
