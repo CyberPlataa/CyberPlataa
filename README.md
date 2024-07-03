@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alexis! A martial artist who's taking his passion for learning techniques and trying to evolve with the combat sports world to IT/Cybersecurity. I catch myself feeling wide-eyed learning new technologies as I do with martial arts. I'm always asking questions, and chasing that feeling of achieving new things. This is a documentation of my journey thus far. If you have any tips for better documentation or cool new technologies; heck even techniques. Please shoot me a message!</h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 IT/CyberSecurity Projects:</h2>
 
 [Active Directory Homelab](https://github.com/CyberPlataa/ActiveDirectoryHomeLab/blob/main/README.md)
 
