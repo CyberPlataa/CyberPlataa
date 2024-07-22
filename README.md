@@ -1,4 +1,6 @@
-<h1>Hi, I'm Alexis! A martial artist who's taking his passion for learning techniques and trying to evolve with the combat sports world to IT/Cybersecurity. I catch myself feeling wide-eyed learning new technologies as I do with martial arts. I'm always asking questions, and chasing that feeling of achieving new things. This is a documentation of my journey thus far- If you have any tips for better documentation or cool new technologies; heck even techniques. Please shoot me a message!</h1>
+<h1>Welcome to My IT and Cybersecurity Portfolio
+
+I am a certified IT professional with ITIL Foundation, CompTIA Security+, and CompTIA A+ (Core 2) certifications, currently pursuing a Bachelor's degree in IT. With years of experience in restaurant management and customer service, I bring strong leadership, communication, and problem-solving skills to the tech industry. This website showcases my projects and expertise in IT services, cybersecurity, and technical support. Explore my work and see how I can contribute to your organization's success.</h1>
 
 <h2>👨‍💻 IT/CyberSecurity Projects:</h2>
 
