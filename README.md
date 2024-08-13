@@ -13,6 +13,7 @@ I am a certified IT professional with ITIL Foundation, CompTIA Security+, and Co
 
 ## Certifications
 ComptiaSecurity+
+Comptia A+
 
 ITIL 4 Foundation
 
