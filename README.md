@@ -10,6 +10,7 @@ I am a certified IT professional with ITIL 4 Foundation, CompTIA Security+, and 
 [Azure Honey Net Lab](https://github.com/CyberPlataa/Azure-Honey-Net-Lab/blob/main/README.md)
 
 [Im in the process of transitioning into notion to publish works.][Frankenstein macbook pro to ubuntu server] [NotionWebsite](https://curiousowlexis.notion.site/Frankenstein-MacbookPro-to-HomeServer-fd89dd5d7b8240d9a2dc8cc54e929827)
+[Update as of 4/30/25] I am a liar and unfortunately will not be switching out to a different website to showcase my portfolio [Mylaugh]
 
 
 ## Certifications
