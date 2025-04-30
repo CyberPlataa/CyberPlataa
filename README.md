@@ -19,5 +19,5 @@ ComptiaSecurity+
 Comptia A+
 ITIL 4 Foundation
 
-[linkedin]: https://www.linkedin.com/in/alexis-martinez-184b85246/
+[linkedin]: https://www.linkedin.com/in/alexismartinez44/
 
